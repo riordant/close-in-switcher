@@ -1,6 +1,10 @@
+
+<img width="1024" height="1024" alt="icon" src="https://github.com/user-attachments/assets/f3d76bf1-6dbb-4298-bf84-a5b59c01ff2a" />
+
+
 # Close Window in Alt-Tab Switcher (Cinnamon Extension)
 
-This Cinnamon extension restores a workflow that used to work in older versions of Linux Mint:
+This Cinnamon extension restores a workflow that used to work in older versions of Linux Mint (Pre-22):
 when cycling windows with **Alt+Tab** (or **Super+Tab**), you can press **Q** to close the
 currently highlighted window directly from the switcher.
 
