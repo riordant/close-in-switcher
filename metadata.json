@@ -1,0 +1,9 @@
+{
+  "uuid": "close-in-switcher@riordant",
+  "name": "Close in Tab Switcher",
+  "description": "Adds Q to close the highlighted window in the Cinnamon Tab switcher.",
+  "version": 1,
+  "cinnamon-version": ["6.4"],
+  "author": "Tadhg Riordan",
+  "url": "https://github.com/riordant/close-in-switcher"
+}
